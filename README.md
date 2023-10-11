@@ -1,3 +1,5 @@
 # test
 
-![Static Badge](https://img.shields.io/badge/stars-red)
+[![Star][star-shield]][star-url]
+
+[star-shield]: https://img.shields.io/badge/stars
